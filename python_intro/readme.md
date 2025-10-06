@@ -106,7 +106,7 @@ A browser window will open — you can create and run Python notebooks there.
 ---
 
 
-# Success! You have installed Anaconda and opened Jupyter Notebook. 🎉
+# 🎉 Nice! You installed Anaconda and opened Jupyter Notebook. 
 
 It should open in your default web browser, and show your files and folders.
 
@@ -114,12 +114,15 @@ It should open in your default web browser, and show your files and folders.
 2. click "New" → "Python 3" to create a new notebook
 3. it should open a new tab with an empty notebook
 4. it should look something like this:
+
 ![Jupyter Notebook interface](./tutorial_imgs/done.png)
 
    - name it something that makes sense
    - make a habit of organizing your files and file names well
 
+# 🗂️ Organizing Files
 
+> Throughout this program, you will make a lot / save a lot of files. Make sure to keep them organized in folders with clear names. We recommend having a main folder on your desktop where you can file all things (you can name it `STAR`) related to this program.
 
 
 <!-- 
@@ -155,7 +158,7 @@ jupyter notebook          # launch Jupyter
 
 --- -->
 
-## 🧩 Troubleshooting Tips
+# 🧩 Troubleshooting Tips
 | Problem                     | Fix                                                                        |
 | --------------------------- | -------------------------------------------------------------------------- |
 | Installer blocked on Mac    | Go to **System Settings → Privacy & Security**, then click **Open Anyway** |
