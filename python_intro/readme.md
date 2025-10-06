@@ -1,7 +1,9 @@
 # Installing Anaconda: A Step-by-Step Guide
 
+🐍🐍🐍
 
-**Goal:** Learn how to install Anaconda on macOS and Windows.**
+
+**Goal:** Learn how to install Anaconda on macOS and Windows.
 
 ---
 
